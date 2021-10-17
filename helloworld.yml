@@ -3,4 +3,4 @@
   tasks:
     - name: Hello World!
       debug:
-        msg: "Hello Worlds!"
+        msg: "Hello World!"
